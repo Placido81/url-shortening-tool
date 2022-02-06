@@ -6,4 +6,5 @@ To run application in browser:
 # When you see the Hooray here's your short link. if you click on the short url it will bring you to that site.
 
 # Piciture of the Url shortner in use.
-https://user-images.githubusercontent.com/70597385/149573954-6d235e94-2cf5-4215-86a4-bb42dcce5268.png
+![url-shortner](https://user-images.githubusercontent.com/70597385/152691938-f3103e13-0478-4d0e-a360-a8013307533e.png)
+
